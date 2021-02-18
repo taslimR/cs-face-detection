@@ -1,0 +1,3 @@
+include ':face_detection_module'
+include ':app'
+rootProject.name = "FaceDetection"
